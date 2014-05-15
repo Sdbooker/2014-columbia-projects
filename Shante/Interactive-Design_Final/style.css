@@ -1,0 +1,204 @@
+
+.title {
+    font-family: 'Coustard', serif;
+    font-weight: 900;
+    line-height: 46px;
+    font-size: 41px;
+    margin: 0 0 23px 0;
+    color: #cf3939;
+    text-align: right;}
+
+
+.sub {
+	font-family: Garamond;
+    font-size: 14px;
+    line-height: 23px;
+    position: relative;
+	left: 830px;
+    width: 390px;}
+
+
+.byline {
+	font-family: Garamond,;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 23px;
+    margin: 0 0 23px 0;
+    text-align: center;
+    position: relative;
+    left: 1090px;
+    width: 130;}
+
+
+p {
+	font-family: Garamond;
+    font-size: 19px;
+    margin: 0 0 23px 0;
+    position: relative;
+    position: relative;
+    text-align: left;}
+
+
+.drop {
+    font-family: Garamond;
+    font-size: 75px;
+    float: left;
+    line-height: 33px;
+    color: #bd1616;}
+
+
+.p-1 {
+    position: relative;
+    width: 480px;
+    margin: 20px;
+    left: 720px;
+    top: 10px;
+    line-height: 25px;}
+
+
+.p-2 {
+    position: relative;
+    width: 400px;
+    height: 618px;
+    margin: 10px;
+    right: 6px;
+    bottom: 8px; 
+    line-height: 25px;
+    padding: ;
+    float: left;}
+
+
+.p-3 {
+    position: relative;
+    width: 400px;
+    height: 618px;
+    margin: 20px;
+    right: 425px;
+    bottom: 18px;
+    line-height: 25px;
+    float: right;}
+
+
+.p-4 {
+    position: absolute;
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    bottom: 398px; 
+    left: 800px;
+    float: left;}
+
+
+.p-5 {
+    position: relative;
+    width: 400px;
+    height: 618px;
+    margin: 10px;
+    right: 6px;
+    bottom: 8px; 
+    line-height: 25px;
+    padding: ;
+    float: left;
+}
+
+.p-6 {
+    position: relative;
+    width: 400px;
+    height: 618px;
+    margin: 20px;
+    right: 425px;
+    bottom: 18px;
+    line-height: 25px;
+    float: right;}
+
+
+.p-7 {
+    position: absolute;
+    width: 400px;
+    height: 160px;
+    margin: 20px;
+    bottom: 438px; 
+    left: 800px;
+    float: left;}
+
+
+.p-8 {
+    position: relative;
+    width: 400px;
+    height: 618px;
+    margin: 10px;
+    right: 6px;
+    bottom: 26px; 
+    line-height: 25px;
+    padding: ;
+    float: left;}
+
+
+.p-9 {
+    position: relative;
+    width: 400px;
+    height: 618px;
+    margin: 20px;
+    right: 425px;
+    bottom: 56px;
+    line-height: 25px;
+    float: right;}
+
+
+.p-10 {
+    position: absolute;
+    width: 400px;
+    height: 450px;
+    margin: 20px;
+    bottom: 147px; 
+    left: 800px;
+    float: left;}
+
+
+.slide-1 {
+    background-image: url("images/Foster-reading.jpg");
+    background-size: 55% 100%;
+    background-repeat: no-repeat;
+    background-position: left;
+    width:1250px;
+    margin:0 auto;}
+
+
+.slide-2 {
+    /*Content*/}
+
+
+.slide-3 {
+    background-image: url("images/hair.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+
+.slide-4 {
+    background-image: url("images/reading.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+
+.slide-5 {
+    background-image: url("images/eyes.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;}
+
+
+.slide-6 {
+    /*Content*/}
+
+
+.slide-7 {
+    /*Content*/}
+
+
+img {
+    position: absolute;
+    top: 280px;
+    left: 818px;}
+
